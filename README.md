@@ -1,9 +1,8 @@
 # Hi there 👋 I'm [Ming!](https://himing4.github.io/himing.io/)
 ## About me 
-:heart: 旅游| :black_heart: 极客 | :blue_heart: DIY
-
-- :earth_americas:  云南-曲靖
-🎧
+- :earth_americas: 云南-曲靖  
+- :microphone: 喜欢唱歌  
+- :video_game: 喜欢游戏  
 
 
 <!-- 
