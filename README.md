@@ -3,8 +3,8 @@
 :heart: 旅游| :black_heart: 极客 | :blue_heart: DIY
 
 - :earth_americas:  云南-曲靖
-- :video_game:  like 复古游戏机
-- :gem:  like DIY树莓派
+🎧
+
 
 <!-- 
 ## Reach me 
