@@ -1,8 +1,6 @@
 # Hi there 👋 I'm [Ming!](https://himing4.github.io/himing.io/)
 ## About me 
-- :earth_americas: 云南-曲靖  
-- :microphone: 喜欢唱歌  
-- :video_game: 喜欢游戏  
+
 
 
 <!-- 
