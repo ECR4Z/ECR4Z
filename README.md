@@ -1,7 +1,4 @@
 # Hi there 👋 I'm [Ming!](https://himing4.github.io/himing.io/)
-## About me 
-
-
 
 <!-- 
 ## Reach me 
